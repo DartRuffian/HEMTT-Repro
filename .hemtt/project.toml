@@ -1,6 +1,6 @@
-name = "MOD_TITLE"
+name = "HEMTT Repro"
 author = "DartRuffian"
-prefix = "MOD_PREFIX"
+prefix = "hmt"
 mainprefix = "z"
 
 [version]
@@ -11,8 +11,8 @@ git_hash = 0
 include = [
     "mod.cpp",
     "meta.cpp",
-    "logo_MOD_PREFIX.png",
-    "logo_MOD_PREFIX_ca.paa",
+    "logo_hmt.png",
+    "logo_hmt_ca.paa",
     "LICENSE.md",
     "README.md",
 ]

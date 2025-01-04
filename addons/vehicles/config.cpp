@@ -8,7 +8,7 @@ class CfgPatches {
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "MOD_PREFIX_main"
+            "hmt_main"
         };
         units[] = {};
         weapons[] = {};
@@ -16,4 +16,4 @@ class CfgPatches {
     };
 };
 
-#include "CfgEventHandlers.hpp"
+#include "CfgVehicles.hpp"

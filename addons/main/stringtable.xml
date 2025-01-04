@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="MOD_ACRONYM">
+<Project name="HMT">
     <Package name="Main">
-        <Key ID="STR_MOD_PREFIX_main_displayName">
+        <Key ID="STR_hmt_main_displayName">
             <English>Main</English>
         </Key>
-        <Key ID="STR_MOD_PREFIX_main_url">
-            <English>https://github.com/DartsArmaMods/MOD_REPO</English>
-            <Czech>https://github.com/DartsArmaMods/MOD_REPO</Czech>
-            <French>https://github.com/DartsArmaMods/MOD_REPO</French>
-            <Spanish>https://github.com/DartsArmaMods/MOD_REPO</Spanish>
-            <Italian>https://github.com/DartsArmaMods/MOD_REPO</Italian>
-            <Polish>https://github.com/DartsArmaMods/MOD_REPO</Polish>
-            <Portuguese>https://github.com/DartsArmaMods/MOD_REPO</Portuguese>
-            <Russian>https://github.com/DartsArmaMods/MOD_REPO</Russian>
-            <German>https://github.com/DartsArmaMods/MOD_REPO</German>
-            <Korean>https://github.com/DartsArmaMods/MOD_REPO</Korean>
-            <Japanese>https://github.com/DartsArmaMods/MOD_REPO</Japanese>
-            <Chinese>https://github.com/DartsArmaMods/MOD_REPO</Chinese>
-            <Chinesesimp>https://github.com/DartsArmaMods/MOD_REPO</Chinesesimp>
-            <Turkish>https://github.com/DartsArmaMods/MOD_REPO</Turkish>
+        <Key ID="STR_hmt_main_url">
+            <English>https://github.com/DartsArmaMods/HEMTT-Repro</English>
+            <Czech>https://github.com/DartsArmaMods/HEMTT-Repro</Czech>
+            <French>https://github.com/DartsArmaMods/HEMTT-Repro</French>
+            <Spanish>https://github.com/DartsArmaMods/HEMTT-Repro</Spanish>
+            <Italian>https://github.com/DartsArmaMods/HEMTT-Repro</Italian>
+            <Polish>https://github.com/DartsArmaMods/HEMTT-Repro</Polish>
+            <Portuguese>https://github.com/DartsArmaMods/HEMTT-Repro</Portuguese>
+            <Russian>https://github.com/DartsArmaMods/HEMTT-Repro</Russian>
+            <German>https://github.com/DartsArmaMods/HEMTT-Repro</German>
+            <Korean>https://github.com/DartsArmaMods/HEMTT-Repro</Korean>
+            <Japanese>https://github.com/DartsArmaMods/HEMTT-Repro</Japanese>
+            <Chinese>https://github.com/DartsArmaMods/HEMTT-Repro</Chinese>
+            <Chinesesimp>https://github.com/DartsArmaMods/HEMTT-Repro</Chinesesimp>
+            <Turkish>https://github.com/DartsArmaMods/HEMTT-Repro</Turkish>
         </Key>
     </Package>
 </Project>

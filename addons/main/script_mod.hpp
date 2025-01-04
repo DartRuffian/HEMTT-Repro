@@ -1,6 +1,6 @@
 #define MAINPREFIX z
-#define PREFIX MOD_PREFIX
-#define MOD_NAME MOD_TITLE
+#define PREFIX hmt
+#define MOD_NAME HEMTT Repro
 #define AUTHOR "DartRuffian"
 
 #define REQUIRED_VERSION 2.18

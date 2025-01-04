@@ -1,14 +1,15 @@
 #include "script_component.hpp"
 
 class CfgPatches {
-    class ADDON {
+    class SUBADDON {
         author = AUTHOR;
         authors[] = {"You!"};
         url = ECSTRING(main,url);
         name = COMPONENT_NAME;
+        addonRootClass = QUOTE(ADDON);
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "hmt_main"
+            QUOTE(ADDON)
         };
         units[] = {};
         weapons[] = {};
@@ -16,4 +17,4 @@ class CfgPatches {
     };
 };
 
-#include "CfgEventHandlers.hpp"
+#include "CfgVehicles.hpp"
