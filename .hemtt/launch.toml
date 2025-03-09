@@ -19,3 +19,7 @@ workshop = [
 extends = "default"
 mission = "Previews.VR"
 parameters = ["-name=Previews"]
+
+# This is only for HEMTT development purposes
+[photoshoot]
+dev_mission = "D:\\GitHub\\LegionStudios\\HEMTT-Repro\\.hemtt\\missions\\photoshoot.VR"

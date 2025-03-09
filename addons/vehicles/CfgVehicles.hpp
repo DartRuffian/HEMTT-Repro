@@ -1,6 +1,7 @@
 class CfgVehicles {
     class B_Soldier_A_F;
     class GVAR(soldier): B_Soldier_A_F {
+        scope = 1;
         editorPreview = QPATHTOF(data\ui\editorPreviews\GVAR(soldier).jpg);
     };
 
