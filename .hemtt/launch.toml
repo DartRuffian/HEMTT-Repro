@@ -15,11 +15,6 @@ workshop = [
     "463939057", # ACE
 ]
 
-[previews]
-extends = "default"
-mission = "Previews.VR"
-parameters = ["-name=Previews"]
-
 # This is only for HEMTT development purposes
 [photoshoot]
-dev_mission = "D:\\GitHub\\LegionStudios\\HEMTT-Repro\\.hemtt\\missions\\photoshoot.VR"
+dev_mission = "D:\\GitHub\\HEMTT-Repro\\.hemtt\\missions\\photoshoot.VR"
